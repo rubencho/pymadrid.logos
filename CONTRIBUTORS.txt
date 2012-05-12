@@ -1,0 +1,6 @@
+CONTRIBUTORS
+============
+
+*    'Rubén Hidalgo Soto' <ruben.rhidalgo@gmail.com>
+*    'Juan Luis Cano Rodríguez' <juanlu001@gmail.com>
+
